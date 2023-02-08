@@ -128,9 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# csv
+# input data
 *.csv
 *.xls
+*.zip
 
 # images
 images/
